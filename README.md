@@ -10,13 +10,11 @@ Movil stacks: React Native - Flutter
 -
 DIM Stacks: Revit-Autocad API C# - Dynamo (Revit-Civil3D) 
 -
-            IFCJS - Autodesk Platform Services
+IFCJS - Autodesk Platform Services
 -
-            BlenderBIM
+BlenderBIM
 -
-ThreeJS - WebGL - 
--
-Python - C# - 
+ThreeJS - WebGL - Python - C# - 
 -
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning Clean Code and patterns - 
