@@ -4,7 +4,7 @@ My name is Felipe Torres:
 Full Stack Software Developer / CAD - BIM Software Developer-
 - Main stack: JS-TS-React-Next (Front) JS-TS-NodeJS-(Express-Nest) Backend
 - Movil stacks: React Native - Flutter
-- DIM Stacks: Revit-Autocad API C# - Dynamo (Revit-Civil3D) 
+- BIM Stacks: Revit-Autocad API C# - Dynamo (Revit-Civil3D) 
 - IFCJS - Autodesk Platform Services
 - BlenderBIM
 - ThreeJS - WebGL - Python - C# - 
